@@ -22,7 +22,7 @@
     "mongoose": "^5.9.12",
     "mongoose-unique-validator": "^2.0.3",
     "morgan": "^1.10.0",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "vue-axios": "^2.1.5"
   },
   "devDependencies": {
